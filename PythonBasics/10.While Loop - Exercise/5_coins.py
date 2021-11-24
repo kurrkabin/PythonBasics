@@ -28,4 +28,3 @@ bills_adjusted = bills_adjusted % 1
 print(coins_counter)
 
 
-#Yes, but I could not have done it on my own w/o losing hours. Judge approved
