@@ -11,4 +11,3 @@ for x in range(number+1):
                 combinations+=1
 print(combinations)
 
-#Focking killed it!
