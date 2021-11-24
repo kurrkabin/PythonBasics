@@ -32,4 +32,3 @@ else:
     print(f'Number of problems: {number_of_grades}')
     print(f'Last problem: {last_name}')
 
-#Nailed it! Key is - if you have Enough, just stop the program right away, meaning, don't place "grade = int(input()) under task_name in he while cycle.
