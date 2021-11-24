@@ -14,8 +14,8 @@ if biggest == sum - biggest:
     print('Yes')
     print(f'Sum = {biggest}')
 else:
-    total = sum-biggest  # 12 - 10 - така намираме сумата от другите числа
-    total1 = abs(biggest-total) #10-2 - така вадим сумата на другите числа от най-голямото
+    total = sum-biggest  
+    total1 = abs(biggest-total) 
     print('No')
     print(f'Diff = {total1}')
 
