@@ -35,6 +35,5 @@ elif n3 == '%' and n2!=0:
 
 
 #Judge approved with 100%. I had to enter n2!=0 twice in line 31 and 33
-#Key takeaway - avoid using sum as it's built in function and it screws things up
 
 
