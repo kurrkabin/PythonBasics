@@ -1,10 +1,3 @@
-#Key element: Don't write if difference >=0, instead write'if budget >=price_boat." This is what seperated me from getting
-#100% and got 93% instead.
-#Key take away here is that you can make 3 if constructions. if seasonn==, if fishermen_count == and if season != Autumn
-#and fisherman_count %2 ==0. Once the first if construction passes, it goes to the second which goes to the third.
-#So this is a very easy way to break down the construction in an easy to read manner
-#Second Key take away is use the print at the end outside of the if constructions
-
 
 budget = int(input())
 season = input()
