@@ -20,4 +20,3 @@ if total_sum < budget:
 else:
     print(f"Not enough money! You need {difference:.2f} leva more!")
 
-# works like magic this way. It's stupid, but it's judge approved.
