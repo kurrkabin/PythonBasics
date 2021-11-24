@@ -18,5 +18,3 @@ else:
     print('The book you search is not here!')
     print(f'You checked {total_books_count} books.')
 
-#Killed it! Логиката е - Ако името не е "Но Море боокс" - ако куррент_буук_наме е равно на буук_наме - намерената книга е правилно, спри да търсиш.
-#Elif куррент_буук_наме е равно на буук_наме, спри while цикъла. Ако нищо не е варно - добави по една книга към total_book_count.
