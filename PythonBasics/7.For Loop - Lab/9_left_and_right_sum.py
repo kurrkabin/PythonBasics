@@ -20,4 +20,3 @@ elif left_side != right_side:
      difference = abs(left_side - right_side)
      print(f'No, diff = {difference}')
 
-#My code. Essentially, we have to enter left_side before the cycle. Why - I have no fucking idea
