@@ -21,4 +21,3 @@ if difference >= 0:
 else:
     print(f"Not enough money! You need {money_needed:.2f} leva more!")
 
-# perfection. Works like magic. But Judge doesn't like. Probably because of the bigger than > comparrission
