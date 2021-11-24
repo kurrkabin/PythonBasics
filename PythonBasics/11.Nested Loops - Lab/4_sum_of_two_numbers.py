@@ -22,5 +22,5 @@ if combinations_result:
 else:
     print(f'{combinations} combinations - neither equals {magic_number} ')
 
-#Key is to insert line 17: if combination results = break. Otherwise, the shit continues and/or prints the combinations.
+#Key is to insert line 17: if combination results = break. Otherwise, it continues and/or prints the combinations.
 #Judge approved
