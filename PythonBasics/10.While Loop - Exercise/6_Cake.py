@@ -15,6 +15,5 @@ while sum_eaten_pieces < cake:
         difference = abs(sum_eaten_pieces - cake)
         print(f'No more cake left! You need {difference} pieces more.')
 
-#Yaaaasss! All by myself. Judge approved.
 
 
