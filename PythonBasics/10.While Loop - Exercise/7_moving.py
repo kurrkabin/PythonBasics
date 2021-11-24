@@ -17,4 +17,3 @@ while luggage < room:
         print(f'No more free space! You need {difference} Cubic meters more.')
         break
 
-#Focking nailed it. Same logic as task number 6, so it was very easy.
