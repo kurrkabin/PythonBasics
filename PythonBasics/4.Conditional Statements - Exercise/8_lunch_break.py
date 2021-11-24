@@ -17,5 +17,3 @@ if difference >= 0:
 else:
     print(f"You don't have enough time to watch {tv_series_name}, you need {difference3} more minutes.")
 
-# perfection. Passed the judge. However, if I have created 2 times if constructions, I can't understand how the operator
-# reads them.
