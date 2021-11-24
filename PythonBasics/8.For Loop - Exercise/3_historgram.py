@@ -33,4 +33,3 @@ print(f'{percent4:.2f}%')
 print(f'{percent5:.2f}%')
 
 
-#My Code, 100% approved. Same shit as the teachers.
