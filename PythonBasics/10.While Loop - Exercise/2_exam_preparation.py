@@ -30,6 +30,3 @@ else:
     print(f'Number of problems: {number_of_grades}')
     print(f'Last problem: {last_name}')
 
-# Fucking hell. Fucking asshole guys.
-# So essentially, if you want to have task_name = input() във вход(както е при нас), then you need to re-arrange and start with the grade first.
-# f.e. in our cicle, we have 3 and Money as entry(vhod) and then - 6 as number and Story as a name.task_name != "Enough", you need to have it
