@@ -68,7 +68,5 @@ elif day in 'Saturday''Sunday':
 elif day != 'Monday''Tuesday''Wednesday''Thursday''Friday''Saturday''Sunday':
     print('error')
 
-# OMFG! I did it, I did it! Judge approved
 # The logic goes like this: If it's Monday-Friday, use the prices written for the veggies. If you type in veggies not in the list - you get an error message:
-# If it's not Monday-Friday, elif it's Saturday-Sunday - use the new prices for the veggies.f you type in veggies not in the list - you get an error message
-# If Monday-Friday condition with Saturday-Sunday condition is not met - just give an error message.
+
