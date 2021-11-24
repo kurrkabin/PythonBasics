@@ -101,6 +101,3 @@ if city == 'Varna':
         price = 1.55
     sum = price * quantity
     print(sum)
-
-# this passed with 100% Let's try same but w/o making calcultions in print. The way to do it - just introduce the
-# variable sum before you print
